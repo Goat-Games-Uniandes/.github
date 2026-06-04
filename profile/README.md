@@ -6,16 +6,6 @@
 
 ###
 
-<div align="center">
-  
-  <!-- Badge de estado -->
-  ![Status](https://img.shields.io/badge/STATUS-EN%20DESARROLLO-brightgreen?style=for-the-badge)
-  ![Games](https://img.shields.io/badge/VIDEOJUEGOS-EN%20PROGRESO-blueviolet?style=for-the-badge)
-  ![Team](https://img.shields.io/badge/EQUIPO-GOAT%20GAMES-orange?style=for-the-badge)
-  
-</div>
-
-###
 
 <!-- MASCOTA O GIF REPRESENTATIVO DE LA INICIATIVA -->
 <!-- Sugerencia: un gif de una cabra haciendo algo épico, o un personaje de videojuego -->
@@ -24,10 +14,10 @@
 <div align="left">
 
 ## 🎮 ¿Quiénes somos?
+🐐✨ **Somos Goat Games**
+Somos una iniciativa de la Universidad de los Andes y queremos invitarte a explorar nuestro corral creativo. Aquí encontrarás proyectos pensados para inspirarte, aprender y lanzarte a crear tus propios videojuegos. 🎮🚀
 
-Somos **Goat Games**, una iniciativa apasionada por crear experiencias de videojuegos únicas e innovadoras.  
-Creemos que los mejores juegos nacen de la creatividad, el trabajo en equipo y las ganas de romper límites.  
-
+Esperamos que disfrutes el recorrido, que encuentres lo que buscas y que te unas a nuestra comunidad para compartir ideas, código y mucha diversión. ¡Atrévete a explorar y jugar con nosotros! 👾
 > *"Being the GOAT isn't just a title — it's a commitment."* 🐐
 
 </div>
