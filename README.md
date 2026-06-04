@@ -1,4 +1,3 @@
-# .github
 <h1 align="center">🐐 GOAT GAMES 🐐</h1>
 <h3 align="center">⚡ Iniciativa de Desarrollo de Videojuegos ⚡</h3>
 
