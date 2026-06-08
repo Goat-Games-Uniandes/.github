@@ -82,10 +82,10 @@ alt="Goat Games Banner" width="25%"/>
 
 <br>
 
-| <img width="200" height="200" alt="Juan Esteban Angel" src="https://github.com/user-attachments/assets/b7770133-4da4-4d47-b1f4-b49b9c3b5ce5" style="border-radius:50%"/> | <!-- Foto miembro 2 --> | <!-- Foto miembro 3 --> |
-|:-:|:-:|:-:|
-| **Juan Esteban Angel** | **<!-- Nombre -->** | **<!-- Nombre -->** |
-| J.angelp@uniandes.edu.co | <!-- Rol --> | <!-- Rol --> |
+| <img width="225" height="225" alt="Juan Esteban Angel" src="https://github.com/user-attachments/assets/b7770133-4da4-4d47-b1f4-b49b9c3b5ce5" style="border-radius:50%"/> | <img width="200" height="219" alt="image" src="https://github.com/user-attachments/assets/38b3f7f8-0763-4342-af27-888b25e28a16" /> | <img width="221" height="217" alt="image" src="https://github.com/user-attachments/assets/05cb66db-99ce-4212-b5a5-a31bec5951b3" /> |<img width="256" height="220" alt="image" src="https://github.com/user-attachments/assets/5c4d976e-8795-4b31-9d9f-943bae37abff" />|
+|:-:|:-:|:-:|:-:|
+| **Juan Esteban Angel** | **Jerónimo Clavijo Cadena** | **Gabriel Felipe Puyo** | **Nicolás Daza Abello** |
+| J.angelp@uniandes.edu.co | j.clavijoc2@uniandes.edu.co  | g.puyo@uniandes.edu.co  |n.dazaa@uniandes.edu.co|
 
 ###
 
@@ -102,10 +102,10 @@ alt="Goat Games Banner" width="25%"/>
 <a href="https://youtube.com/TU_CANAL" target="_blank">
   <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="YouTube"/>
 </a>
-<a href="mailto:TU_EMAIL@gmail.com" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail"/>
+<a href="https://outlook.office.com/ggames@uniandes.edu.co" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail"/>
 </a>
-<a href="https://itch.io/TU_PERFIL" target="_blank">
+<a href="https://goatgamesstudio.itch.io/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=itch.io&logo=itch.io&label=&color=FA5C5C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="itch.io"/>
 </a>
 
