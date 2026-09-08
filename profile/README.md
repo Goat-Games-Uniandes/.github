@@ -92,7 +92,7 @@ alt="Goat Games Banner" width="25%"/>
 ## 📡 Encuéntranos en
 
 <!-- Reemplaza los links con los de tu organización -->
-<a href="https://instagram.com/TU_INSTAGRAM" target="_blank">
+<a href="https://instagram.com/ggames_uniandes" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram"/>
 </a>
 <a href="https://discord.gg/TU_SERVIDOR" target="_blank">
